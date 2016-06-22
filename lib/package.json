@@ -1,0 +1,23 @@
+{
+  "name": "akshay-data-retriever",
+  "version": "1.0.0",
+  "description": "intern project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "akshay",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.21.0",
+    "couchbase": "^2.1.8",
+    "express": "^4.14.0",
+    "file-system": "^2.2.1",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "http-server": "^0.9.0",
+    "mocha": "^2.5.3",
+    "node-stringify": "0.0.19",
+    "restify": "^4.1.1"
+  }
+}
